@@ -5,22 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="861ca766-e379-46ac-9220-bd2ea12c2717" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Training scripts/Cars_p1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Training scripts/Customers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Training scripts/Dog.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Training scripts/Restaurant.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Training scripts/Twinkies.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Training scripts/car_calss.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Training scripts/coins.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Training scripts/doc_class.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Training scripts/firstLines.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Training scripts/functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Training scripts/game.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Training scripts/les7_functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Training scripts/lesson8_classes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Training scripts/pants.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Training scripts/steps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Training scripts/turtle_class_practice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Training scripts/Electro_cars.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -57,8 +42,17 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Training scripts/Dog.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Training scripts/Electro_cars.py">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
@@ -94,6 +88,7 @@
         <option value="$PROJECT_DIR$/venv/Restaurant.py" />
         <option value="$PROJECT_DIR$/venv/Customers.py" />
         <option value="$PROJECT_DIR$/venv/car_calss.py" />
+        <option value="$PROJECT_DIR$/Training scripts/Electro_cars.py" />
       </list>
     </option>
   </component>
@@ -121,11 +116,6 @@
               <item name="codeCampPython" type="b2602c69:ProjectViewProjectNode" />
               <item name="codeCampPython" type="462c0819:PsiDirectoryNode" />
               <item name="Training scripts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="codeCampPython" type="b2602c69:ProjectViewProjectNode" />
-              <item name="codeCampPython" type="462c0819:PsiDirectoryNode" />
-              <item name="venv" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="codeCampPython" type="b2602c69:ProjectViewProjectNode" />
@@ -375,6 +365,14 @@
       <workItem from="1549318004765" duration="512000" />
       <workItem from="1549318609665" duration="122000" />
     </task>
+    <task id="LOCAL-00001" summary="restore some stuff">
+      <created>1549491066123</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1549491066123</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -393,7 +391,7 @@
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" x="787" y="167" width="225" height="615" id="Project" order="0" sideWeight="0.49944875" visible="true" weight="0.36911687" />
+      <window_info content_ui="combo" x="787" y="167" width="225" height="615" id="Project" order="0" sideWeight="0.49944875" visible="true" weight="0.14754099" />
       <window_info id="Structure" order="1" weight="0.24856816" />
       <window_info id="Favorites" order="2" sideWeight="0.5005513" side_tool="true" weight="0.11898466" />
       <window_info id="SciView" order="3" weight="0.3295325" />
@@ -407,9 +405,9 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.19599108" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32855567" />
-      <window_info anchor="bottom" id="Python Console" order="8" weight="0.32739422" />
+      <window_info anchor="bottom" id="Python Console" order="8" weight="0.3263506" />
       <window_info anchor="bottom" id="Educational.CheckDetails" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49946293" weight="0.389755" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.49946293" visible="true" weight="0.38919514" />
       <window_info anchor="bottom" id="SonarLint" order="11" weight="0.32739422" />
       <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.50161463" side_tool="true" weight="0.311804" />
       <window_info anchor="bottom" id="Docker" order="13" show_stripe_button="false" />
@@ -442,6 +440,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="restore some stuff" />
+    <option name="LAST_COMMIT_MESSAGE" value="restore some stuff" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Training scripts/venv/steps.py">
@@ -565,6 +567,13 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Training scripts/Dog.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Training scripts/Electro_cars.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
